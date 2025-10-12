@@ -40,7 +40,7 @@ My_LangChain_Practice/
 ├── vectorstores/          # (Coming soon) Indexing PDFs / Docs with FAISS
 ├── projects/              # End-to-end GenAI mini-apps
 ├── README.md              # This file
-
+```
 
 ## 💡 **Planned Mini Projects**
 
