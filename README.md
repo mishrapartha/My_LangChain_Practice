@@ -75,4 +75,4 @@ If you're a recruiter, engineer, or collaborator in the AI/ML or cloud space —
 
 ## ⚠️ Disclaimer
 
-This repository is for my educational and portfolio purposes only. Some components are based on course materials and tutorials, which I’ve customized, expanded, and annotated for deeper learning.
+This repository is for **my educational and portfolio purposes only**. Some components are based on course materials and tutorials, which I’ve customized, expanded, and annotated for deeper learning.
