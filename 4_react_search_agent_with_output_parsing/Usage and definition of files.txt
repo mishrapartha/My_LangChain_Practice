@@ -1,0 +1,2 @@
+prompt.py contains the react prompt with format instructiions which is used in the crreat react agent function to create the agent
+schemas.py contains the pydantic classes for source and agent response used in the pydantic output parser
