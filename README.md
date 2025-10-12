@@ -59,7 +59,7 @@ Streamlit App – deployable UI for one of the above
 ## 📜 **Certification Path**
 
 
-📖 [ ] AWS Certified AI Practitioner (Exam: Oct 26, 2025)
+📖 [ ] AWS Certified AI Practitioner
 
 📖 [ ] AWS Solutions Architect Associate
 
