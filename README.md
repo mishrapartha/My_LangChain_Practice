@@ -41,3 +41,38 @@ My_LangChain_Practice/
 ├── projects/              # End-to-end GenAI mini-apps
 ├── README.md              # This file
 
+
+## 💡 **Planned Mini Projects**
+
+Here are a few GenAI apps I'm working toward:
+
+Chatbot with Personality – custom memory and persona logic
+
+PDF Question-Answering Bot – vectorstore + Retriever chain
+
+Resume Assistant – parses resumes and suggests job matches
+
+AWS FAQ Assistant – uses OpenAI to answer AWS exam questions
+
+Streamlit App – deployable UI for one of the above
+
+## 📜 **Certification Path**
+
+
+📖 [ ] AWS Certified AI Practitioner (Exam: Oct 26, 2025)
+
+📖 [ ] AWS Solutions Architect Associate
+
+📖 [ ] AWS Machine Learning Specialty
+
+## 📬 **Let's Connect**
+
+If you're a recruiter, engineer, or collaborator in the AI/ML or cloud space — especially based in UAE or working remotely — feel free to connect!
+
+🌐 LinkedIn: https://www.linkedin.com/in/parthamishra09/
+ 
+
+
+## ⚠️ Disclaimer
+
+This repository is for my educational and portfolio purposes only. Some components are based on course materials and tutorials, which I’ve customized, expanded, and annotated for deeper learning.
