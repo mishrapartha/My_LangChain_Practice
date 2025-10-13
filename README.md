@@ -36,7 +36,7 @@ My_LangChain_Practice/
 │
 
 ├── 1_Search_Agent/                        # Learning the core concepts of LangChain by building a simple search agent
-├── 2_ReAct Agent Using LangChain/         # Learning the core concepts of a ReAct Agent by try to build it from strach using LangChain
+├── 2_ReAct Agent Using LangChain/         # Learning the core concepts of a ReAct Agent by try to build it from scratch using LangChain
 ├── prompt_chains/                         # Learning prompt templates and chains
 ├── tools/                                 # Integrating LangChain tools (calculator, search, etc.)
 ├── agents/                                # Exploring ReAct, AgentExecutor, Tool usage
