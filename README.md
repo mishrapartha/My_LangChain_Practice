@@ -34,6 +34,8 @@ This repo is part of my ongoing preparation to transition into a **Generative AI
 ```bash
 My_LangChain_Practice/
 │
+
+├── 1_Search_Agent/         # Learning the core concepts of Lang Chain by building a simple search agent
 ├── prompt_chains/         # Learning prompt templates and chains
 ├── tools/                 # Integrating LangChain tools (calculator, search, etc.)
 ├── agents/                # Exploring ReAct, AgentExecutor, Tool usage
