@@ -1,3 +1,13 @@
+"""
+Replace ReAct algorithm with LangChain tool calling approach
+- Remove manual ReAct prompt template and parsing logic
+- Implement .bind_tools() for direct tool integration with LLM
+- Replace agent scratchpad tracking with message-based conversation flow
+- Simplify tool execution using built-in ToolMessage handling
+- Maintain same functionality with cleaner, more maintainable code
+"""
+
+
 # Importing Required Libraries
 from typing import List
 
