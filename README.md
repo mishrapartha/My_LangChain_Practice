@@ -38,6 +38,7 @@ My_LangChain_Practice/
 ├── 1_Search_Agent/                        # Learning the core concepts of LangChain by building a simple search agent
 ├── 2_ReAct Agent Using LangChain/         # Learning the core concepts of a ReAct Agent by try to build it from scratch using LangChain
 ├── 3_Function_or_Tool_Calling/            # Learning the core concepts of Function/Tool Calling using LangChain
+├── 4_Intro_to_RAG                         # Learning the core concepts of Retrieval Augmented Generation (RAG) using LangChain and Pinecone VectorStore
 ├── prompt_chains/                         # Learning prompt templates and chains
 ├── tools/                                 # Integrating LangChain tools (calculator, search, etc.)
 ├── agents/                                # Exploring ReAct, AgentExecutor, Tool usage
