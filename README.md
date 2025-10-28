@@ -35,16 +35,17 @@ This repo is part of my ongoing preparation to transition into a **Generative AI
 My_LangChain_Practice/ 
 │
 
-├── 1_Search_Agent/                        # Learning the core concepts of LangChain by building a simple search agent
-├── 2_ReAct Agent Using LangChain/         # Learning the core concepts of a ReAct Agent by try to build it from scratch using LangChain
-├── 3_Function_or_Tool_Calling/            # Learning the core concepts of Function/Tool Calling using LangChain
-├── 4_Intro_to_RAG                         # Learning the core concepts of Retrieval Augmented Generation (RAG) using LangChain and Pinecone VectorStore
-├── prompt_chains/                         # Learning prompt templates and chains
-├── tools/                                 # Integrating LangChain tools (calculator, search, etc.)
-├── agents/                                # Exploring ReAct, AgentExecutor, Tool usage
-├── vectorstores/                          # (Coming soon) Indexing PDFs / Docs with FAISS
-├── projects/                              # End-to-end GenAI mini-apps
-├── README.md                              # This file
+├── 1_Search_Agent/                              # Learning the core concepts of LangChain by building a simple search agent
+├── 2_ReAct Agent Using LangChain/               # Learning the core concepts of a ReAct Agent by try to build it from scratch using LangChain
+├── 3_Function_or_Tool_Calling/                  # Learning the core concepts of Function/Tool Calling using LangChain
+├── 4_Intro_to_RAG                               # Learning the core concepts of Retrieval Augmented Generation (RAG) using LangChain and Pinecone VectorStore
+├── 5_Projects/1_Simple_Documentation_Helper     # Project 1 - Simple Documentation Helper. It is a Streamlit UI based RAG application which uses Pinecone for VectorStore (no memory for future Questioning)
+├── prompt_chains/                               # Learning prompt templates and chains
+├── tools/                                       # Integrating LangChain tools (calculator, search, etc.)
+├── agents/                                      # Exploring ReAct, AgentExecutor, Tool usage
+├── vectorstores/                                # (Coming soon) Indexing PDFs / Docs with FAISS
+├── projects/                                    # End-to-end GenAI mini-apps
+├── README.md                                    # This file
 ```
 
 ## 💡 **Planned Mini Projects**
@@ -64,7 +65,7 @@ Streamlit App – deployable UI for one of the above
 ## 📜 **Certification Path**
 
 
-📖 [ ] AWS Certified AI Practitioner
+📖 [x] [AWS Certified AI Practitioner](https://www.credly.com/badges/453fa0f4-f71b-49fc-a64a-285f5f5b6459/public_url) - Earned on 26 Oct 2025
 
 📖 [ ] AWS Solutions Architect Associate
 
