@@ -69,9 +69,9 @@ Streamlit App – deployable UI for one of the above
 
 📖 AWS Certified Solutions Architect - Associate
 
-📖 AWS Certified Machine Learning Engineer - Associate
+📖 AWS Certified Developer - Associate 
 
-📖 AWS Certified Developer - Associate
+📖 AWS Certified Machine Learning Engineer - Associate
 
 📖 AWS Certified Machine Learning - Specialty
 
