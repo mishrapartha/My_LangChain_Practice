@@ -67,9 +67,15 @@ Streamlit App – deployable UI for one of the above
 
 📖 ✅[AWS Certified AI Practitioner](https://www.credly.com/badges/453fa0f4-f71b-49fc-a64a-285f5f5b6459/public_url) - Earned on 26 Oct 2025
 
-📖 AWS Solutions Architect Associate
+📖 AWS Certified Solutions Architect - Associate
 
-📖 AWS Machine Learning Specialty
+📖 AWS Certified Machine Learning Engineer - Associate
+
+📖 AWS Certified Developer - Associate
+
+📖 AWS Certified Machine Learning - Specialty
+
+📖 AWS Certified Solutions Architect - Professional
 
 ## 📬 **Let's Connect**
 
